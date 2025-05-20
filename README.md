@@ -1,0 +1,2 @@
+# ServerHint
+一个基于AdvanceHints框架所重写的Hint框架
